@@ -1,4 +1,4 @@
-///////////////////////////
+////////////LCD///////////////
 #include <LiquidCrystal.h>
 char ch;
 int Contrast=15;
